@@ -1,0 +1,48 @@
+header{
+	background: linear-gradient(to right, #4776E6, #8e54e9);
+	color: white;
+}
+
+.seus-blocos{
+	text-align: center; 
+	padding: 20px; 
+	background: #b02394; 
+	color: #fff; 
+	font-size: 23px;
+}
+
+.criar-bloco{
+	text-align: center; 
+	padding: 20px;
+	background: #f6af03;
+	color: #ffff;
+	font-size: 23px;
+}
+
+.criar-bloco-input{
+	text-align: center; 
+	padding: 20px;
+	background: #f6af03;
+	color: #ffff;
+}
+
+.titulo-input{
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+}
+
+.descricao-input{
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+}
+
+.criar-button{
+	/*background: linear-gradient(to right, #4776E6, #8e54e9);*/
+	padding: 7px;
+	cursor: pointer;
+	background: #fff;
+	border: none;
+	border-radius: 10px;
+}
